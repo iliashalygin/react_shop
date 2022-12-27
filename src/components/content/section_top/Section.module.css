@@ -1,0 +1,38 @@
+.section_top {
+  background-color: #CCB2A3;
+  height: 590px;
+  position: relative;
+}
+
+.section_footing {
+  padding-top: 35px;
+  padding-left: 1055px;
+  color: #FFFFFF;
+}
+
+.section_description {
+  font-size: 42px;
+  text-transform: capitalize;
+  width: 270px;
+  height: 184px;
+  color: #FFFFFF;
+  padding-left: 135px;
+  padding-top: 90px;
+}
+
+.section_description::first-letter {
+  color: #FF9619;
+}
+
+.img_post01 {
+  position: absolute;
+  left: 435px;
+  top: 95px;
+}
+
+.position_catalog {
+  position: relative;
+  left: 135px;
+  top: 100px;
+}
+

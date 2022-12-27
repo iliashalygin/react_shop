@@ -1,0 +1,30 @@
+.header {
+  display: inline-flex;
+  align-content: center;
+  margin-top: 44px;
+  margin-bottom: 45px;
+}
+
+.catalog {
+  padding-left: 135px;
+}
+
+.language {
+  padding-right: 135px;
+}
+
+.catalog,
+.individual_furniture,
+.contacts,
+.logo,
+.about_company,
+.telephone,
+.language {
+  padding-left: 62px;
+  color: #343434;
+  text-decoration: none;
+}
+
+.logo {
+  margin-top: -20px;
+}
