@@ -10,7 +10,7 @@ const Header = () => {
       <NavLink to="/individual_furniture" className={`${s.individual_furniture}`}>Индивидуальная мебель</NavLink>
       <NavLink to="/contacts" className={`${s.contacts}`}>Контакты</NavLink>
       <div className={`${s.logo}`}>
-        <img src={logo} />
+        <NavLink to="/" ><img src={logo} /></NavLink>
       </div>
       <NavLink to="/about_company" className={`${s.about_company}`}>О компании</NavLink>
       <div className={`${s.telephone}`}>+38 (099)-638-45-37</div>

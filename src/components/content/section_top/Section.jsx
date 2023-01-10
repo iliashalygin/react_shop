@@ -1,8 +1,8 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
 import s from "./Section.module.css";
 import post from "./Post01.svg";
-import st from "./../../Go_catalog.module.css"
+import st from "../Go_catalog.module.css"
+import { NavLink } from "react-router-dom";
 
 const Section_top = () => {
   return (

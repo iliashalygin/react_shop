@@ -1,0 +1,30 @@
+
+.card {
+  display: inline-block;
+  margin: 20px 0;
+}
+
+.products_container {
+  padding: 10px;
+}
+
+.card_description {
+  flex-direction: column;
+  text-align: center;
+  padding: 0px 30px;
+}
+
+.imgSlider {
+  width: 250px;
+  height: 250px;
+  transition: all 0.3s ease;
+}
+
+.imgSlider:hover {
+  transform: scale(1.1);
+}
+
+.titleSlider {
+  width: 250px;
+}
+

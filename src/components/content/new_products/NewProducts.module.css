@@ -9,17 +9,8 @@
   color: #FF9619;
 }
 
-/* .style_catalog {
-  text-decoration: none;
-  color: #FFFFFF;
-  text-transform: uppercase;
-  font-size: 15px;
-  background-color: #FF9619;
-  padding: 14px 21px;
-} */
-
 .position_catalog {
   position: relative;
-  left: 635px;
-  top: 855px;
+  left: 600px;
+  top: 100px;
 }
