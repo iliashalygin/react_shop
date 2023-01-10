@@ -8,7 +8,7 @@ const Catalog = (props) => {
   useEffect(() => {
     axios({
       method: "GET",
-      url: "https://fakestoreapi.com/products"
+      url: "http://localhost:3001/product"
     }).then(res => {
       setData(res.data)
     })

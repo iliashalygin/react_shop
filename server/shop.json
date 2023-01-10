@@ -1,0 +1,172 @@
+{
+  "product" : [
+    {
+      "id": 1,
+      "price": 199,
+      "category": "sofa",
+      "image": "https://hoff.ru/upload/iblock/675/67539807d40414bfedb95b90dba1261e.JPG",
+      "title": "Угловой диван-кровать DREAMART Рольф"
+    },
+    {
+      "id": 2,
+      "price": 220,
+      "category": "sofa",
+      "image": "https://www.avrora-mebel.ru/wa-data/public/shop/products/54/04/454/images/8879/8879.970.jpg",
+      "title": "Диван Кёльн рогожка Malmo серый"
+    },
+    {
+      "id": 3,
+      "price": 99,
+      "category": "sofa",
+      "image": "https://ligadivanov.ru/upload/iblock/612/6127374105fa0b4865a5bc45c5a2e9af.jpg",
+      "title": "Диван \"Сканди 3П\""
+    },
+    {
+      "id": 4,
+      "price": 90,
+      "category": "sofa",
+      "image": "https://www.deon-mebel.ru/images/detailed/794/26_cjar-2g.jpg",
+      "title": "Диван MOON"
+    },
+    {
+      "id": 5,
+      "price": 125,
+      "category": "armchair",
+      "image": "https://www.8marta.ru/files/nodus_items/0000/0313/_cache/images/watermark94610169/637731_kkr-1615565452.jpg",
+      "title": "Кресло-кровать Голливуд"
+    },
+    {
+      "id": 6,
+      "price": 125,
+      "category": "armchair",
+      "image": "https://hoff.ru/upload/hoff_resize/hoff-images/310/035/7/060e9cf36953ddfd8907af5774e35c2d.jpg/1500x1000_85.jpeg",
+      "title": "Купить Кресло Людвиг"
+    },
+    {
+      "id": 7,
+      "price": 180,
+      "category": "armchair",
+      "image": "https://www.askona.ru/upload/catalog_product_images/divany/emersund-velutto-06-venge/emersund-velutto-06-venge_2.jpg",
+      "title": "Кресло-трансформер Emersund"
+    },
+    {
+      "id": 8,
+      "price": 40,
+      "category": "armchair",
+      "image": "https://elegia-mebel.ru/upload/iblock/983/gohf1jrgeygp5dkhji3syemdtzt8eofq/072c11af-d7ef-11eb-991c-001b2256de81_529c74c9-363d-11ec-995a-001b2256de81.jpg",
+      "title": "Кресло \"Вега-10\""
+    },
+    {
+      "id": 9,
+      "price": 55,
+      "category": "armchair",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkNfBln2f5in9kMZHVuibZqhsQ71rCOMBAw&usqp=CAU",
+      "title": "Кресло-кровать раскладной Лео"
+    },
+    {
+      "id": 10,
+      "price": 37,
+      "category": "table",
+      "image": "https://www.ekomebel.com/upload/resize_cache/iblock/2f2/722_590_1b2c42a83d7250a5c5d048215f0719188/2f27f6bdb56a46e2123c12a8ba0afa6a.jpg",
+      "title": "Кухонные стол \"Комфорт\""
+    },
+    {
+      "id": 11,
+      "price": 54,
+      "category": "table",
+      "image": "https://stulych.ru/upload/iblock/454/dc72s5kp30dj9kn4bnhe9updqoour9xk.jpg",
+      "title": "Стол обеденный ЛОФТ"
+    },
+    {
+      "id": 12,
+      "price": 99,
+      "category": "table",
+      "image": "https://dubna.ekomebel.com/upload/resize_cache/iblock/992/720_560_1b2c42a83d7250a5c5d048215f0719188/992395a5dc4dfa50cd8f21a9f0c6409f.jpg",
+      "title": "hola"
+    },
+    {
+      "id": 13,
+      "price": 130,
+      "category": "table",
+      "image": "https://static.insales-cdn.com/images/products/1/1651/103999091/B1100_bel.jpg",
+      "title": "Kenner B1100"
+    },
+    {
+      "id": 14,
+      "price": 30,
+      "category": "table",
+      "image": "https://meb-biz.ru/upload/iblock/f97/f97724ab19bee8b6940e62cbafc4b4cd.jpg",
+      "title": "Угловой стол"
+    },
+    {
+      "id": 15,
+      "price": 20,
+      "category": "chair",
+      "image": "https://dobryanka.dom-a-dom.ru/images/images/81219_original.png?1591087865",
+      "title": "Стул \"В-610\""
+    },
+    {
+      "id": 16,
+      "price": 15,
+      "category": "chair",
+      "image": "https://www.express-office.ru/1391393-original/standart-fabrikant.jpg",
+      "title": "Офисный стул"
+    },
+    {
+      "id": 17,
+      "price": 20,
+      "category": "chair",
+      "image": "https://mebelbig.ru/images/mebelbig.ru/thumbs/WithoutTrims/a107993ac0737a5a15eb017371eb600b64e2b079/1600xautox3/stul_klassik_1.jpg",
+      "title": "Стул Классик"
+    },
+    {
+      "id": 18,
+      "price": 20,
+      "category": "chair",
+      "image": "https://www.ekomebel.com/upload/resize_cache/iblock/7c4/722_590_1b2c42a83d7250a5c5d048215f0719188/7c479569de31f4573a5cbe1cb8a78ea3.jpg",
+      "title": "Стул из массива березы"
+    },
+    {
+      "id": 19,
+      "price": 25,
+      "category": "chair",
+      "image": "https://annihaus.ru/upload/iblock/0a8/0a89967a4ac5a9dc690508347c2137ca.jpg",
+      "title": "Купить стул Ginger"
+    },
+    {
+      "id": 20,
+      "price": 20,
+      "category": "chair",
+      "image": "https://www.stolberi.ru/upload/iblock/2ea/45347ccc_28a3_11ea_8086_fcaa145d5838_d7d995d4_cb4a_11ea_c59a_005056bdce03.jpg",
+      "title": "Стул Венеция"
+    },
+    {
+      "id": 21,
+      "price": 20,
+      "category": "chair",
+      "image": "https://d2rbyiw1vv51io.cloudfront.net/web/ikea4/images/765/0976576_PE813283_S5.jpg",
+      "title": "INGOLF"
+    },
+    {
+      "id": 22,
+      "price": 15,
+      "category": "chair",
+      "image": "https://www.listvig.ru/image/cache/catalog/FIN_chair/fin_blue_b_tkan_800x800px-650x650.jpg",
+      "title": "ФИН стул из ткани"
+    },
+    {
+      "id": 23,
+      "price": 20,
+      "category": "chair",
+      "image": "https://saha-mebel.ru/files/originals/stul-loft-3-derevo-201146.jpg",
+      "title": "Стул Лофт-3"
+    },
+    {
+      "id": 24,
+      "price": 10,
+      "category": "chair",
+      "image": "https://static.insales-cdn.com/r/gNazelgbJsQ/rs:fit:1500:0:1/q:100/plain/images/products/1/4400/479752496/C1.jpg",
+      "title": "Стул ученический"
+    }
+  ]
+}
